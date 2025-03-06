@@ -1,0 +1,115 @@
+,gp_sentence,non_gp_sentence,question,semantic_plausibility
+0,While the secretary typed the memo neared completion.,The memo neared completion while the secretary typed.,Is it true that the secretary typed the memo?,1
+1,While the secretary typed the drawing neared completion.,The drawing neared completion while the secretary typed.,Is it true that the secretary typed the drawing?,0
+2,While the explorer paddled the canoe headed toward a waterfall.,The canoe headed toward a waterfall while the explorer paddled.,Is it true that the explorer paddled the canoe?,1
+3,While the explorer paddled the yacht headed toward a waterfall.,The yacht headed toward a waterfall while the explorer paddled.,Is it true that the explorer paddled the yacht?,0
+4,While the cowboy rode the horse sweated profusely.,The horse sweated profusely while the cowboy rode.,Is it true that the cowboy rode the horse?,1
+5,While the cowboy rode the leopard sweated profusely.,The leopard sweated profusely while the cowboy rode.,Is it true that the cowboy rode the leopard?,0
+6,While Tom grilled the hot dog began to burn.,The hot dog began to burn while Tom grilled.,Is it true that Tom grilled the hot dog?,1
+7,While Tom grilled the barn began to burn.,The barn began to burn while Tom grilled.,Is it true that Tom grilled the barn began?,0
+8,While the architect drew the building represented modern times style.,The building represented modern times style while the architect drew.,Is it true that the architect drew the building?,1
+9,While the architect drew the melody represented modern times style.,The melody represented modern times style while the architect drew.,Is it true that the architect drew the melody?,0
+10,While the chef stirred the soup boiled over.,The soup boiled over while the chef stirred.,Is it true that the chef stirred the soup?,1
+11,While the chef stirred the acid boiled over.,The acid boiled over while the chef stirred.,Is it true that the chef stirred the acid?,0
+12,While the tourist explored the tunnel echoed with mysterious sounds.,The tunnel echoed with mysterious sounds while the tourist explored.,Is it true that the tourist explored the tunnel?,1
+13,While the tourist explored the trunk echoed with mysterious sounds.,The trunk echoed with mysterious sounds while the tourist explored.,Is it true that the tourist explored the trunk?,0
+14,While the woman drank the water spilled on the floor.,The water spilled on the floor while the woman drank.,Is it true that the woman drank the water?,1
+15,While the woman drank the mud spilled on the floor.,The mud spilled on the floor while the woman drank.,Is it true that the woman drank the mud?,0
+16,While the snake swallowed the frog kicked vigorously.,The frog kicked vigorously while the snake swallowed.,Is it true that the snake swallowed the frog?,1
+17,While the snake swallowed the hippo kicked vigorously.,The hippo kicked vigorously while the snake swallowed.,Is it true that the snake swallowed the hippo?,0
+18,While the lion attacked the baboon screamed in terror.,The baboon screamed in terror while the lion attacked.,Is it true that the lion attacked the baboon?,1
+19,While the lion attacked the penguin screamed in terror.,The penguin screamed in terror while the lion attacked.,Is it true that the lion attacked the penguin?,0
+20,While the maid dusted the picture tipped over.,The picture tipped over while the maid dusted.,Is it true that the maid dusted the picture?,1
+21,While the maid dusted the cow tipped over.,The cow tipped over while the maid dusted.,Is it true that the maid dusted the cow?,0
+22,While the teacher counted the children formed a line.,The children formed a line while the teacher counted.,Is it true that the teacher counted the children?,1
+23,While the teacher counted the ants formed a line.,The ants formed a line while the teacher counted.,Is it true that the teacher counted the ants?,0
+24,While the champion raced the challenger stumbled and fell.,The challenger stumbled and fell while the champion raced.,Is it true that the champion raced the challenger?,1
+25,While the champion raced the spectator stumbled and fell.,The spectator stumbled and fell while the champion raced.,Is it true that the champion raced the spectator?,0
+26,While Jerry played the violin went out of tune.,The violin went out of tune while Jerry played.,Is it true that Jerry played the violin?,1
+27,While Jerry played the speakers went out of tune.,The speakers went out of tune while Jerry played.,Is it true that Jerry played the speakers?,0
+28,While the girl painted the rainbow slowly faded outside.,The rainbow slowly faded outside while the girl painted.,Is it true that the girl painted the rainbow?,1
+29,While the girl painted the music slowly faded outside.,The music slowly faded outside while the girl painted.,Is it true that the girl painted the music?,0
+30,While Kendra parked the van bumped the curb.,The van bumped the curb while Kendra parked.,Is it true that Kendra parked the van?,1
+31,While Kendra parked the horse bumped the curb.,The horse bumped the curb while Kendra parked.,Is it true that Kendra parked the horse?,0
+32,While Angela cleaned the dog stood in the yard.,The dog stood in the yard while Angela cleaned.,Is it true that Angela cleaned the dog?,1
+33,While Angela cleaned the mailman stood in the yard.,The mailman stood in the yard while Angela cleaned.,Is it true that Angela cleaned the mailman?,0
+34,While the sailor smoked the pipe glowed brightly.,The pipe glowed brightly while the sailor smoked.,Is it true that the sailor smoked the pipe?,1
+35,While the sailor smoked the firefly glowed brightly.,The firefly glowed brightly while the sailor smoked.,Is it true that the sailor smoked the firefly?,0
+36,While the tourist filmed the dancer blocked the sidewalk.,The dancer blocked the sidewalk while the tourist filmed.,Is it true that the tourist filmed the dancer?,1
+37,While the tourist filmed the trashbags blocked the sidewalk.,The trashbags blocked the sidewalk while the tourist filmed.,Is it true that the tourist filmed the trashbags?,0
+38,While the athlete wrestled the opponent shouted insults.,The opponent shouted insults while the athlete wrestled.,Is it true that the athlete wrestled the opponent?,1
+39,While the athlete wrestled the audience shouted insults.,The audience shouted insults while the athlete wrestled.,Is it true that the athlete wrestled the audience?,0
+40,While the warrior fought the enemy retreated.,The enemy retreated while the warrior fought.,Is it true that the warrior fought the enemy?,1
+41,While the warrior fought the rhino retreated.,The rhino retreated while the warrior fought.,Is it true that the warrior fought the rhino?,0
+42,While Harry chewed the steak fell to the floor.,The steak fell to the floor while Harry chewed.,Is it true that Harry chewed the steak?,1
+43,While Harry chewed the book fell to the floor.,The book fell to the floor while Harry chewed.,Is it true that Harry chewed the book?,0
+44,While Bill ate the turkey sat on the table.,The turkey sat on the table while Bill ate.,Is it true that Bill ate the turkey?,1
+45,While Bill ate the baby sat on the table.,The baby sat on the table while Bill ate.,Is it true that Bill ate the baby?,0
+46,While Janet baked the bread rose in the oven.,The bread rose in the oven while Janet baked.,Is it true that Janet baked the bread?,1
+47,While Janet baked the pressure rose in the oven.,The pressure rose in the oven while Janet baked.,Is it true that Janet baked the pressure?,0
+48,While the public cheered the team left the restaurant.,The team left the restaurant while the public cheered.,Is it true that the public cheered the team?,1
+49,While the public cheered the rats left the restaurant.,The rats left the restaurant while the public cheered.,Is it true that the public cheered the rats?,0
+50,While the cleaner mopped the floor was filled with stains.,The floor was filled with stains while the cleaner mopped.,Is it true that the cleaner mopped the floor?,1
+51,While the cleaner mopped the ceiling was filled with stains.,The ceiling was filled with stains while the cleaner mopped.,Is it true that the cleaner mopped the ceiling?,0
+52,While the chef cooked the meal impressed the couple.,The meal impressed the couple while the chef cooked.,Is it true that the chef cooked the meal?,1
+53,While the chef cooked the cat impressed the couple.,The cat impressed the couple while the chef cooked.,Is it true that the chef cooked the cat?,0
+54,While the child finished the homework waited on the table.,The homework waited on the table while the child finished.,Is it true that the child finished the homework?,1
+55,While the child finished the tax forms waited on the table.,The tax forms waited on the table while the child finished.,Is it true that the child finished the tax?,0
+56,While the student knitted the sweater sold to the highest bidder.,The sweater sold to the highest bidder while the student knitted.,Is it true that the student knitted the sweater?,1
+57,While the student knitted the painting sold to the highest bidder.,The painting sold to the highest bidder while the student knitted.,Is it true that the student knitted the painting?,0
+58,While the astronomer observed the comet lit up the room.,The comet lit up the room while the astronomer observed.,Is it true that the astronomer observed the comet?,1
+59,While the astronomer observed the lightbulb lit up the room.,The lightbulb lit up the room while the astronomer observed.,Is it true that the astronomer observed the lightbulb?,0
+60,While the players started the game bored the children.,The game bored the children while the players started.,Is it true that the players started the game?,1
+61,While the players started the lesson bored the children.,The lesson bored the children while the players started.,Is it true that the players started the lesson?,0
+62,While the professor taught the students looked at the board.,The students looked at the board while the professor taught.,Is it true that the professor taught the students?,1
+63,While the professor taught the puppies looked at the board.,The puppies looked at the board while the professor taught.,Is it true that the professor taught the puppies?,0
+64,While the pianist practiced the melody echoed through the hall.,The melody echoed through the hall while the pianist practiced.,Is it true that the pianist practiced the melody?,1
+65,While the pianist practiced the vacuum echoed through the hall.,The vacuum echoed through the hall while the pianist practiced.,Is it true that the pianist practiced the vacuum?,0
+66,While the couple left the bar buzzed with activity.,The bar buzzed with activity while the couple left.,Is it true that the couple left the bar?,1
+67,While the couple left the hive buzzed with activity.,The hive buzzed with activity while the couple left.,Is it true that the couple left the hive?,0
+68,While the gardener harvested the tomatoes hanged on the vine.,The tomatoes hanged on the vine while the gardener harvested.,Is it true that the gardener harvested the tomatoes?,1
+69,While the gardener harvested the chrysalis hanged on the vine.,The chrysalis hanged on the vine while the gardener harvested.,Is it true that the gardener harvested the chrysalis?,0
+70,While the horse pulled the cart moved silently.,The cart moved silently while the horse pulled.,Is it true that the horse pulled the cart?,1
+71,While the horse pulled the submarine moved silently.,The submarine moved silently while the horse pulled.,Is it true that the horse pulled the submarine?,0
+72,While the man hunted the deer ran into the woods.,The deer ran into the woods while the man hunted.,Is it true that the man hunted the deer?,1
+73,While the man hunted the child ran into the woods.,The child ran into the woods while the man hunted.,Is it true that the man hunted the child?,0
+74,While the skipper sailed the boat veered off course.,The boat veered off course while the skipper sailed.,Is it true that the skipper sailed the boat?,1
+75,While the skipper sailed the car veered off course.,The car veered off course while the skipper sailed.,Is it true that the skipper sailed the car?,0
+76,While the orchestra performed the symphony played on the radio.,The symphony played on the radio while the orchestra performed.,Is it true that the orchestra performed the symphony?,1
+77,While the orchestra performed the newsflash played on the radio.,The newsflash played on the radio while the orchestra performed.,Is it true that the orchestra performed the newsflash?,0
+78,While the bridesmaid ordered the dress got delivered.,The dress got delivered while the bridesmaid ordered.,Is it true that the bridesmaid ordered the dress?,1
+79,While the bridesmaid ordered the tractor got delivered.,The tractor got delivered while the bridesmaid ordered.,Is it true that the bridesmaid ordered the tractor?,0
+80,While Susan wrote the letter fell off the table.,The letter fell off the table while Susan wrote.,Is it true that Susan wrote the letter?,1
+81,While Susan wrote the Bible fell off the table.,The Bible fell off the table while Susan wrote.,Is it true that Susan wrote the Bible?,0
+82,While the farmer steered the tractor pulled the car.,The tractor pulled the car while the farmer steered.,Is it true that the farmer steered the tractor?,1
+83,While the farmer steered the tank pulled the car.,The tank pulled the car while the farmer steered.,Is it true that the farmer steered the tank?,0
+84,While the lawyer studied the contract lay on the roll-top desk.,The contract lay on the roll-top desk while the lawyer studied.,Is it true that the lawyer studied the contract?,1
+85,While the lawyer studied the cat lay on the roll-top desk.,The cat lay on the roll-top desk while the lawyer studied.,Is it true that the lawyer studied the cat?,0
+86,While the clown juggled the balls fell on the ground.,The balls fell on the ground while the clown juggled.,Is it true that the clown juggled the balls?,1
+87,While the clown juggled the cats fell on the ground.,The cats fell on the ground while the clown juggled.,Is it true that the clown juggled the cats?,0
+88,While Anne vacuumed the rug lost its colors.,The rug lost its colors while Anne vacuumed.,Is it true that Anne vacuumed the rug?,1
+89,While Anne vacuumed the chameleon lost its colors.,The chameleon lost its colors while Anne vacuumed.,Is it true that Anne vacuumed the chameleon?,0
+90,While Jim bathed the child giggled with delight.,The child giggled with delight while Jim bathed.,Is it true that Jim bathed the child?,1
+91,While the chimps groomed the baboons sat in the grass.,The baboons sat in the grass while the chimps groomed.,Is it true that the chimps groomed the baboons?,1
+92,While Frank dried off the car sat in the driveway.,The car sat in the driveway while Frank dried off.,Is it true that Frank dried off the car?,1
+93,While Betty woke up the neighbor coughed loudly.,The neighbor coughed loudly while Betty woke up.,Is it true that Betty woke up the neighbor?,1
+94,While the thief hid the jewelry sparkled brightly.,The jewelry sparkled brightly while the thief hid.,Is it true that the thief hid the jewelry?,1
+95,While Anna dressed the baby spit up on the bed.,The baby spit up on the bed while Anna dressed.,Is it true that Anna dressed the baby?,1
+96,While the boy washed the dog barked loudly.,The dog barked loudly while the boy washed.,Is it true that the boy washed the dog?,1
+97,While the jockey settled down the horse stood in the stall.,The horse stood in the stall while the jockey settled down.,Is it true that the jockey settled down the horse?,1
+98,While the mother undressed the baby cried softly.,The baby cried softly while the mother undressed.,Is it true that the mother undressed the baby?,1
+99,While the nurse shaved the patient watched TV.,The patient watched TV while the nurse shaved.,Is it true that the nurse shaved the patient?,1
+100,While the girl scratched the cat stared at the dog.,The cat stared at the dog while the girl scratched.,Is it true that the girl scratched the cat?,1
+101,While the mother calmed down the children sat on the bed.,The children sat on the bed while the mother calmed down.,Is it true that the mother calmed down the children?,1
+102,While the artist changed the painting stood the test of time.,The painting stood the test of time while the artist changed.,Is it true that the artist changed the painting?,1
+103,While the child grew the tomatoes invaded the garden.,The tomatoes invaded the garden while the child grew.,Is it true that the child grew the tomatoes?,1
+104,While the toddler rolled the ball kept moving across the room.,The ball kept moving across the room while the toddler rolled.,Is it true that the toddler rolled the ball?,1
+105,While the mechanic turned the wheel made weird noises.,The wheel made weird noises while the mechanic turned.,Is it true that the mechanic turned the wheel?,1
+106,While the ice cap shrank the river stayed warm.,The river stayed warm while the ice cap shrank.,Is it true that the ice cap shrank the river?,1
+107,While the gymnast swung the bat fell on the road.,The bat fell on the road while the gymnast swung.,Is it true that the gymnast swung the bat?,1
+108,While Bill trained the athletes started the game.,The athletes started the game while Bill trained.,Is it true that Bill trained the athletes?,1
+109,While the dog moved the bone went bad.,The bone went bad while the dog moved.,Is it true that the dog moved the bone?,1
+110,While the river flooded the valley kept on living quietly.,The valley kept on living quietly while the river flooded.,Is it true that the river flooded the valley?,1
+111,While the log broke the window moved on its axis.,The window moved on its axis while the log broke.,Is it true that the log broke the window?,1
+112,While the match lit the fire warmed the children.,The fire warmed the children while the match lit.,Is it true that the match lit the fire?,1
+113,While the wave crashed the boat was stranded in the ocean.,The boat was stranded in the ocean while the wave crashed.,Is it true that the wave crashed the boat?,1

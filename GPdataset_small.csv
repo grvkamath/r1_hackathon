@@ -1,0 +1,31 @@
+gp_sentence,non_gp_sentence,question,semantic_plausibility
+While the secretary typed the memo neared completion,The memo neared completion while the secretary typed.,Is it true that the secretary typed the memo ?,1
+While the secretary typed the drawing neared completion,The drawing neared completion while the secretary typed.,Is it true that the secretary typed the drawing ?,0
+While the explorer paddled the canoe headed toward a waterfall,The canoe headed toward a waterfall while the explorer paddled.,Is it true that the explorer paddled the canoe ?,1
+While the explorer paddled the yacht headed toward a waterfall,The yacht headed toward a waterfall while the explorer paddled.,Is it true that the explorer paddled the yacht ?,0
+While the cowboy rode the horse sweated profusely,The horse sweated profusely while the cowboy rode.,Is it true that the cowboy rode the horse ?,1
+While the cowboy rode the leopard sweated profusely,The leopard sweated profusely while the cowboy rode.,Is it true that the cowboy rode the leopard ?,0
+While Tom grilled the hot dog began to burn,The hot dog began to burn while Tom grilled.,Is it true that Tom grilled the hot dog ?,1
+While Tom grilled the barn began to burn,The barn began to burn while Tom grilled.,Is it true that Tom grilled the barn began ?,0
+While the architect drew the building represented modern times style,The building represented modern times style while the architect drew.,Is it true that the architect drew the building ?,1
+While the architect drew the melody represented modern times style,The melody represented modern times style while the architect drew.,Is it true that the architect drew the melody ?,0
+While the chef stirred the soup boiled over,The soup boiled over while the chef stirred.,Is it true that the chef stirred the soup ?,1
+While the chef stirred the acid boiled over,The acid boiled over while the chef stirred.,Is it true that the chef stirred the acid ?,0
+While the tourist explored the tunnel echoed with mysterious sounds,The tunnel echoed with mysterious sounds while the tourist explored.,Is it true that the tourist explored the tunnel ?,1
+While the tourist explored the trunk echoed with mysterious sounds,The trunk echoed with mysterious sounds while the tourist explored.,Is it true that the tourist explored the trunk ?,0
+While the woman drank the water spilled on the floor,The water spilled on the floor while the woman drank.,Is it true that the woman drank the water ?,1
+While the woman drank the mud spilled on the floor,The mud spilled on the floor while the woman drank.,Is it true that the woman drank the mud ?,0
+While the snake swallowed the frog kicked vigorously,The frog kicked vigorously while the snake swallowed.,Is it true that the snake swallowed the frog ?,1
+While the snake swallowed the hippo kicked vigorously,The hippo kicked vigorously while the snake swallowed.,Is it true that the snake swallowed the hippo ?,0
+While the lion attacked the baboon screamed in terror,The baboon screamed in terror while the lion attacked.,Is it true that the lion attacked the baboon ?,1
+While the lion attacked the penguin screamed in terror,The penguin screamed in terror while the lion attacked.,Is it true that the lion attacked the penguin ?,0
+While the maid dusted the picture tipped over,The picture tipped over while the maid dusted.,Is it true that the maid dusted the picture ?,1
+While the maid dusted the cow tipped over,The cow tipped over while the maid dusted.,Is it true that the maid dusted the cow ?,0
+While the teacher counted the children formed a line,The children formed a line while the teacher counted.,Is it true that the teacher counted the children ?,1
+While the teacher counted the ants formed a line,The ants formed a line while the teacher counted.,Is it true that the teacher counted the ants ?,0
+While the champion raced the challenger stumbled and fell,The challenger stumbled and fell while the champion raced.,Is it true that the champion raced the challenger ?,1
+While the champion raced the spectator stumbled and fell,The spectator stumbled and fell while the champion raced.,Is it true that the champion raced the spectator ?,0
+While Jerry played the violin went out of tune,The violin went out of tune while Jerry played.,Is it true that Jerry played the violin ?,1
+While Jerry played the speakers went out of tune,The speakers went out of tune while Jerry played.,Is it true that Jerry played the speakers ?,0
+While the girl painted the rainbow slowly faded outside,The rainbow slowly faded outside while the girl painted.,Is it true that the girl painted the rainbow ?,1
+While the girl painted the music slowly faded outside,The music slowly faded outside while the girl painted.,Is it true that the girl painted the music ?,0

@@ -1,4 +1,6 @@
 import os
+import pandas as pd 
+from tqdm import tqdm
 import argparse
 import datetime
 import random
@@ -13,8 +15,10 @@ def build_parser():
 	parser.add_argument('-run_name', type=str, default='default', help='run name for logs')
 	parser.add_argument('-out_dir', type=str, default='outputs/', help='Output Directory')
 	parser.add_argument('-stop', type=list, default=[], help='When to stop generation')
+	parser.add_argument('-input_directory', type=str)
+	parser.add_argument('-system_prompt', type=str, default='You are a helpful and harmless assistant.', help='System prompt')
 	parser.add_argument('-prompt_type', type=str, default='basic', help='prompt type')
-	parser.add_argument('-model_type', type=str, default='hyperbolic', choices=['hyperbolic', 'together', 'openai_reasoning', 'openai_chat', 'vllm'], help='Which type of model to use')
+	parser.add_argument('-model_type', type=str, default='together', choices=['hyperbolic', 'together', 'openai_reasoning', 'openai_chat', 'vllm'], help='Which type of model to use')
 	parser.add_argument('-model', type=str, default='deepseek-ai/DeepSeek-R1', help='Which model to use')
 	parser.add_argument('-max_tokens', type=int, default=8096, help='Maximum number of tokens')
 	parser.add_argument('-temperature', type=float, default=0.6, help='Sampling temperature')
@@ -25,24 +29,43 @@ def build_parser():
 
 def main(args):
 	model = LargeLanguageModel(model_type=args.model_type, model=args.model)
-
-	# If you have a dataset, just put the below code in a loop
-	sys_prompt, prompt = get_prompt(args.prompt_type)
-
-	response = model.predict(
-		prompt=prompt,
-		sys_prompt=sys_prompt,
-		max_tokens=args.max_tokens,
-		temperature=args.temperature,
-		reasoning_effort=args.reasoning_effort,
-		top_p=args.top_p,
-		stop=args.stop
-	)
-
-	print("Model Response:\n\n", response)
-
-	with open(os.path.join(args.out_dir, "output.txt"), "w") as f:
-		f.write(response)
+	data = pd.read_csv(args.input_directory)
+	gp_responses = []
+	non_gp_responses = []
+	for i in tqdm(range(len(data))):
+		row = data.iloc[i]
+		# If you have a dataset, just put the below code in a loop
+		gp_sentence = row['gp_sentence']
+		non_gp_sentence = row['non_gp_sentence']
+		question = row['question']
+		gp_full_prompt = f"{gp_sentence} {question}"
+		non_gp_full_prompt = f"{non_gp_sentence} {question}"
+		gp_response = model.predict(
+			prompt=gp_full_prompt,
+			sys_prompt=args.system_prompt,
+			max_tokens=args.max_tokens,
+			temperature=args.temperature,
+			reasoning_effort=args.reasoning_effort,
+			top_p=args.top_p,
+			stop=args.stop
+		)
+		gp_responses.append(gp_response)
+		#
+		non_gp_response = model.predict(
+			prompt=non_gp_full_prompt,
+			sys_prompt=args.system_prompt,
+			max_tokens=args.max_tokens,
+			temperature=args.temperature,
+			reasoning_effort=args.reasoning_effort,
+			top_p=args.top_p,
+			stop=args.stop
+		)
+		non_gp_responses.append(non_gp_response)
+	#
+	output_df = data 
+	output_df['gp_response'] = gp_responses
+	output_df['non_gp_response'] = non_gp_responses
+	output_df.to_csv(os.path.join(args.out_dir, f"{args.run_name}.csv"), index=False)
 
 
 if __name__ == "__main__":
@@ -58,8 +81,6 @@ if __name__ == "__main__":
 		args.run_name = args.model + "_" + disp_time + "_" + str(random.randint(0,100))
 
 	args.run_name = args.run_name.replace("/", "-")
-
-	args.out_dir = os.path.join(args.out_dir, args.run_name)
 
 	if not os.path.exists(args.out_dir):
 		os.makedirs(args.out_dir)
