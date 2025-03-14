@@ -1,0 +1,49 @@
+item,sentence_illusion,sentence_control,ellipsis,quantifier,repeatability,question
+1,More girls graduated from high school last year than John did.,More girls graduated from high school last year than boys did.,ellipsis,more,non-repeatable,Who graduated from high school last year?
+2,This semester more foreign applicants got into Stanford than Marie did. ,This semester more foreign applicants got into Stanford than Americans did. ,ellipsis,more,non-repeatable,Who got into Stanford this semester?
+3,More boys got an A on the exam yesterday than she did.,More boys got an A on the exam yesterday than girls did.,ellipsis,more,non-repeatable,Who got an A on the exam yesterday?
+4,Last month more couples had their second child than Sandra's sister did.,Last month more couples had their second child than single parents did.,ellipsis,more,non-repeatable,Who had their second child last month?
+5,More photographers won their third Pulitzer this year than the professor did.,More photographers won their third Pulitzer this year than professors did.,ellipsis,more,non-repeatable,Who won their third Pulitzer this year?
+6,More gym instructors won a marathon yesterday than the lawyer did.,More gym instructors won a marathon yesterday than lawyers did.,ellipsis,more,non-repeatable,Who won a marathon yesterday?
+7,More Americans began law school this week than Megan did.,More Americans began law school this week than Canadians did.,ellipsis,more,non-repeatable,Who began law school this week?
+8,This month more one-year-olds took their first steps than Sally did.,This month more one-year-olds took their first steps than 10-month-olds did.,ellipsis,more,non-repeatable,Who took their first steps this month?
+9,Today more Brazilians immigrated to Japan than Peter's mother did.,Today more Brazilians immigrated to Japan than Chileans did.,ellipsis,more,non-repeatable,Who immigrated to Japan today?
+10,More 18-year-olds voted in this election than Amy's father did.,More 18-year-olds voted in this election than 40-year-olds did.,ellipsis,more,non-repeatable,Who voted in this election?
+11,This year more firemen have retired from service than Alfred has.,This year more firemen have retired from service than doctors have.,ellipsis,more,non-repeatable,Who retired from service this year?
+12,More mathematicians have solved this puzzle than the philosopher has.,More mathematicians have solved this puzzle than philosophers have.,ellipsis,more,non-repeatable,Who solved this puzzle?
+13,More Canadians named their first son Enrique than Sonya did.,More Canadians named their first son Enrique than Mexicans did.,ellipsis,more,non-repeatable,Who named their first son Enrique?
+14,Last summer more 5-year-olds learned to ride a bike than Fran's son did.,Last summer more 5-year-olds learned to ride a bike than 6-year-olds did.,ellipsis,more,non-repeatable,Who learned to ride a bike last summer?
+15,More workers were laid off from the plant than the manager was.,More workers were laid off from the plant than managers were.,ellipsis,more,non-repeatable,Who was laid off from the plant?
+16,This year more senior professors ran for president than Richard did.,This year more senior professors ran for president than junior professors did.,ellipsis,more,non-repeatable,Who ran for president this year?
+17,More girls had their tonsils removed over the summer break than the boy did.,More girls got their tonsils removed over the summer break than boys did.,ellipsis,more,non-repeatable,Who had their tonsils removed over summer break?
+18,This fall more teenage boys got their first car than Marissa did.,This fall more teenage boys got their first car than teenage girls did.,ellipsis,more,non-repeatable,Who got their first car this fall?
+19,More Midwesterners learned to drive last year than Michael did.,More Midwesterners learned to drive last year than Californians did.,ellipsis,more,non-repeatable,Who learned to drive last year?
+20,More Texans ran for Governor in the last election season than Sarah did.,More Texans ran for Governor in the last election season than Alaskans did.,ellipsis,more,non-repeatable,Who ran for Governor in the last election season?
+21,Last year more new bands had their first stadium show than Nick did.,Last year more new bands had their first stadium show than well-known bands did.,ellipsis,more,non-repeatable,Who had their first stadium show last year?
+22,More tycoons opened a new hotel this morning than Roseanne did.,More tycoons opened a new hotel this morning than heiresses did.,ellipsis,more,non-repeatable,Who opened a new hotel this morning?
+23,This week more writers published their first book than the photographer did.,This week more writers published their first book than photographers did.,ellipsis,more,non-repeatable,Who published their first book this week?
+24,This year more seniors had their left hip replaced than Timothy did.,This year more seniors had their left hip replaced than young adults did.,ellipsis,more,non-repeatable,Who had their left hip replaced this year?
+25,More lawyers go to the gym on weekends than Adelle does.,More lawyers go to the gym on weekends than models do.,ellipsis,more,repeatable,Who goes to the gym on weekends?
+26,At school more boys get in trouble for fighting than Lisa does.,At school more boys get in trouble for fighting than girls do.,ellipsis,more,repeatable,Who gets in trouble for fighting at school?
+27,More commuters take the train on the weekend than Donald does.,More commuters take the train on the weekend than tourists do.,ellipsis,more,repeatable,Who takes the train on weekends?
+28,More kids go to camp in the summer than Martha's son does.,More kids go to camp in the summer than teenagers do.,ellipsis,more,repeatable,Who goes to camp in thte summer?
+29,More Canadians play hockey in the winter than Steven does.,More Canadians play hockey in the winter than Americans do.,ellipsis,more,repeatable,Who plays hockey in the winter?
+30,More biologists travel to the Pacific Islands than Max does.,More biologists travel to the Pacific Islands than anthropologists do.,ellipsis,more,repeatable,Who travels to the Pacific islands?
+31,More acrobats have performed on this stage than the juggler has.,More acrobats have performed on this stage than jugglers have.,ellipsis,more,repeatable,Who has performed on this stage?
+32,These days more farmers gamble in Vegas than Sally-Mae does.,These days more farmers gamble in Vegas than waitresses do.,ellipsis,more,repeatable,Who gambles in Vegas these days?
+33,More students get involved with team sports than the teacher does.,More students get involved with team sports than teachers do.,ellipsis,more,repeatable,Who gets involved with team sports?
+34,More Swiss teenagers open checking accounts than Ezra does.,More Swiss teenagers open checking accounts than British teenagers do.,ellipsis,more,repeatable,Who opens checkings accounts?
+35,For vacation more Europeans travel to New Zealand than Vanessa does.,For vacation more Europeans travel to New Zealand than Latin Americans do.,ellipsis,more,repeatable,Who travels to New Zealand for vacation?
+36,More Californians have cheated on their taxes than she has.,More Californians have cheated on their taxes than university students have.,ellipsis,more,repeatable,Who has cheated on their taxes?
+37,This year more reporters have bought lottery tickets than the cameraman has.,This year more reporters have bought lottery tickets than cameramen have.,ellipsis,more,repeatable,Who has bought lottery tickets this year?
+38,This season more freshmen attended away games than Julie did.,This season more freshmen attended away games than sophomores did.,ellipsis,more,repeatable,Who attended more away games this season?
+39,More plumbers receive employee health benefits than the carpenter does.,More plumbers receive employee health benefits than carpenters do.,ellipsis,more,repeatable,Who receives employee heath benefits?
+40,More youngsters wear red overalls to school than Amos does.,More youngsters wear red overalls to school than teachers do.,ellipsis,more,repeatable,Who wears red overalls to school?
+41,These days more customers call to complain than the shareholder does.,These days more customers call to complain than shareholders do.,ellipsis,more,repeatable,Who calls to complain these days?
+42,More teenage boys skip school on Wednesdays than Julie does.,More teenage boys skip school on Wednesdays than teenage girls do.,ellipsis,more,repeatable,Who skips school on Wednesdays?
+43,More grandparents lose money at the casino than the young parent does.,More grandparents lose money at the casino than young parents do.,ellipsis,more,repeatable,Who loses money at the casino?
+44,More undergrads call their families during the week than the grad student does.,More undergrads call their families during the week than grad students do.,ellipsis,more,repeatable,Who calls their families during the week?
+45,More women have been treated at this hospital than Mack has.,More women have been treated at this hospital than men have.,ellipsis,more,repeatable,Who has been treated at this hospital?
+46,More Australian students have taken a year off than the Korean student has.,More Australian students have taken a year off than Korean students have.,ellipsis,more,repeatable,Who has taken a year off?
+47,More sophomores have attended departmental Open Houses than Parker has.,More sophomores have attended departmental Open Houses than seniors have.,ellipsis,more,repeatable,Who has attended departmental Open Houses?
+48,More neighborhood boys take swimming lessons than Isabel does.,More neighborhood boys take swimming lessons than out-of-towners do.,ellipsis,more,repeatable,Who takes swimming lessons?

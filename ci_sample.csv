@@ -1,0 +1,6 @@
+item,sentence_illusion,sentence_control,ellipsis,quantifier,repeatability,question
+8,This month more one-year-olds took their first steps than Sally did.,This month more one-year-olds took their first steps than 10-month-olds did.,ellipsis,more,non-repeatable,Who took their first steps this month?
+36,More Californians have cheated on their taxes than she has.,More Californians have cheated on their taxes than university students have.,ellipsis,more,repeatable,Who has cheated on their taxes?
+20,More Texans ran for Governor in the last election season than Sarah did.,More Texans ran for Governor in the last election season than Alaskans did.,ellipsis,more,non-repeatable,Who ran for Governor in the last election season?
+19,More Midwesterners learned to drive last year than Michael did.,More Midwesterners learned to drive last year than Californians did.,ellipsis,more,non-repeatable,Who learned to drive last year?
+32,These days more farmers gamble in Vegas than Sally-Mae does.,These days more farmers gamble in Vegas than waitresses do.,ellipsis,more,repeatable,Who gambles in Vegas these days?
